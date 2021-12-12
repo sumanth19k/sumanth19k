@@ -27,7 +27,7 @@
 
 **I am Into**
 
-**Machine Learning, Web Development, App Development, Competetive Programming and Physics**
+**Machine Learning, Web Development, Python, Competetive Programming and Physics**
 <br />
 
 
